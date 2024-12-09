@@ -38,6 +38,7 @@ include_dir = "0.7"
 fluent-templates = { version = "0.8.0", features = ["tera"] }
 unic-langid = "0.9.4"
 # /view engine
+feed-rs = "1.3.0"
 
 [[bin]]
 name = "metazine_rust-cli"
